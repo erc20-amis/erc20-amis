@@ -1,7 +1,7 @@
 ---
 layout: faq
 title:  "What will I need to trade on the Ethereum network after Genesis Block?"
-date:   2017-11-04
+date:   2017-01-04
 categories: PoS
 ---
 You will need 3 things. 
