@@ -1,6 +1,6 @@
 ---
 layout: faq
-title:  "What is QRL?"
+title:  "What is AMIS ?"
 date:   2017-11-01
 categories: PoS
 ---
