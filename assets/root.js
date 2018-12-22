@@ -3,7 +3,7 @@ $(document)
     $(function() {
       var $content = $("#jsonContent");
       var data = {
-        rss_url: "https://medium.com/feed/the-quantum-resistant-ledger",
+        rss_url: "https://medium.com/feed/amis_erc20",
       };
       $.get("https://api.rss2json.com/v1/api.json", data, function(response) {
         if (response.status === "ok") {
