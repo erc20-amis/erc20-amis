@@ -78,7 +78,7 @@ active: roadmap
     <div class="steps-two">
     <img class="steps-img" src="/assets/timeline/6@1x.png" alt="" />
     <h3 class="steps-name">
-      Block explorer
+      Decentralized Market explorer
     </h3>
     <p class="steps-description">
        Design and launch of the first iteration of the AMIS ERC20 Token into Decentralized Markets.
