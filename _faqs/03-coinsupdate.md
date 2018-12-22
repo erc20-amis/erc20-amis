@@ -1,6 +1,6 @@
 ---
 layout: faq
-title:  "Why even have a QRL? Can’t Bitcoin and other projects just add in Quantum Resistance later?"
+title:  "Why even have an AMIS ? Can’t Bitcoin and other projects just add in AMIS later?"
 date:   2017-11-03
 categories: PoS
 ---
