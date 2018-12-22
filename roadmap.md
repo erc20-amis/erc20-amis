@@ -17,9 +17,9 @@ active: roadmap
       The idea
     </h3>
     <p class="steps-description">
-      Founder noticed investment in QC development, ECDSA being deprecated by the NSA and given the vulnerability in all existing blockchain ledgers conceived the idea of a post-quantum ledger.
+      Founder noticed investment in AMIS development, given the market analysis study in all existing blockchain ledgers conceived the idea of an Asset Management Instrument Solution.
       <br><br>
-      Creation of post-quantum secure hash-based digital signature library
+      Creation of Asset Management Infrastructure Instrument
     </p>
     <p class="steps-date">
       August 2016
@@ -29,10 +29,10 @@ active: roadmap
   <div class="steps-two">
     <img class="steps-img" src="/assets/timeline/2@1x.png" alt="" />
     <h3 class="steps-name">
-      Proof of work
+      Proof of concept
     </h3>
     <p class="steps-description">
-       Creation of a POW ledger utilising Merkle signature scheme addresses with Winternitz and Lamport one-time signatures.
+       Creation of an ERC20 Smart contract using scheme addresses of Ethereum and Bitshare DLTs.
     </p>
     <p class="steps-date">
     September 2016
