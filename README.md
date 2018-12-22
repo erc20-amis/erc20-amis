@@ -1,8 +1,7 @@
-# The QRL Website
+# The erc20-amis Website
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c76981c5bec4e51a04174e011baace2)](https://www.codacy.com/app/jplomas/theQRL.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theQRL/theQRL.github.io&amp;utm_campaign=Badge_Grade)
 
-Live at [theQRL.org](https://theqrl.org)  
+Live at [erc20-amis.amisolution.net](https://erc20-amis.amisolution.net)  
 _NB. DNS currently migrating to Github pages_
 
 ## To run locally
