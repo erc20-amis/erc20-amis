@@ -9,7 +9,7 @@ active: team
     <div class="ui centered cards">
       <div class="ui card">
         <div>
-          <p align="center"><img src="/assets/aidan.png" style="max-width: 150px"></p>
+          <p align="center"><img src="/assets/.png" style="max-width: 150px"></p>
         </div>
         <div class="content">
           <div class="header">Amisolution</div>
