@@ -7,7 +7,7 @@ categories: PoS
 You will need 3 things. 
 
 1. AMIS ERC20 Token (1 or more)
-2. A working computer/mobile
-3. Working internet
+2. A computer/mobile with wallet (MWE, MetaMask, Cipher, Enjin, Coinbase, Nifty, Trust, Saturn)
+3. Internet
 
 
